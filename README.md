@@ -1,8 +1,8 @@
-\# Beecrowd 1061 - Tempo de um Evento
+# Beecrowd 1061 - Tempo de um Evento
 
 
 
-\## Descrição
+## Descrição
 
 
 
@@ -10,19 +10,19 @@ Este programa resolve o problema 1061 do Beecrowd.
 
 
 
-\## Tecnologias utilizadas
+## Tecnologias utilizadas
 
 
 
-\- Java
+- Java
 
-\- NetBeans
+- NetBeans
 
-\- Maven
+- Maven
 
 
 
-\## Entrada
+## Entrada
 
 
 
@@ -30,7 +30,7 @@ A entrada contém o dia, a hora, os minutos e os segundos de início e de térmi
 
 
 
-\## Saída
+## Saída
 
 
 
@@ -38,7 +38,7 @@ O programa apresenta a duração do evento em dias, horas, minutos e segundos.
 
 
 
-\## Autor
+## Autor
 
 
 
